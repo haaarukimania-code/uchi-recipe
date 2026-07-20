@@ -356,6 +356,63 @@
       "cooking_time": "約15分",
       "created_at": "2026-07-20T18:59:21+09:00",
       "updated_at": "2026-07-20T18:59:21+09:00"
+    },
+    {
+      "id": "20260720-190107",
+      "title": "酢もやし　安ウマ簡単常備菜",
+      "source_url": "https://recipe.rakuten.co.jp/recipe/1670014671/",
+      "source_name": "楽天レシピ",
+      "image": "images/20260720-190107.jpg",
+      "servings": "３、４人分",
+      "folders": [
+        "常備菜"
+      ],
+      "cooking_time": "5分以内",
+      "ingredients": [
+        {
+          "item": "もやし",
+          "quantity": "1",
+          "unit": "袋",
+          "note": ""
+        },
+        {
+          "item": "白ごま",
+          "quantity": "1",
+          "unit": "小さじ",
+          "note": ""
+        },
+        {
+          "item": "酢",
+          "quantity": "2",
+          "unit": "大さじ",
+          "note": ""
+        },
+        {
+          "item": "塩",
+          "quantity": "",
+          "unit": "",
+          "note": "3〜4つまみ"
+        },
+        {
+          "item": "ごま油",
+          "quantity": "1",
+          "unit": "小さじ",
+          "note": ""
+        },
+        {
+          "item": "こしょう",
+          "quantity": "",
+          "unit": "",
+          "note": "少々"
+        }
+      ],
+      "steps": [
+        "もやしをしんなりするまで2、3分ゆで、ザルにあけて水気を切る",
+        "もやしをぎゅっと絞ってから材料をすべて合わせて良く混ぜる"
+      ],
+      "memo": "もやしだけでシンプル。酢が効いていてもりもり食べられる。",
+      "created_at": "2026-07-20T19:01:07+09:00",
+      "updated_at": "2026-07-20T19:01:07+09:00"
     }
   ]
 }
