@@ -3,7 +3,8 @@
   "folders": [
     "和食",
     "イタリアン",
-    "常備菜"
+    "常備菜",
+    "おつまみ"
   ],
   "recipes": [
     {
@@ -214,6 +215,57 @@
       "created_at": "2026-07-20T18:12:20+09:00",
       "updated_at": "2026-07-20T18:12:20+09:00",
       "cooking_time": "30分（漬け時間）"
+    },
+    {
+      "id": "20260720-183025",
+      "title": "アボカドとクリームチーズのおかか醤油",
+      "source_url": "https://foodistnote.recipe-blog.jp/article/292586/",
+      "source_name": "フーディストノート",
+      "image": "images/20260720-183025.jpg",
+      "servings": "2人分",
+      "folders": [
+        "おつまみ"
+      ],
+      "ingredients": [
+        {
+          "item": "アボカド",
+          "quantity": "1",
+          "unit": "個",
+          "note": ""
+        },
+        {
+          "item": "クリームチーズ",
+          "quantity": "2",
+          "unit": "個",
+          "note": "小分けのもの"
+        },
+        {
+          "item": "しょうゆ",
+          "quantity": "",
+          "unit": "",
+          "note": "適量"
+        },
+        {
+          "item": "かつおぶし",
+          "quantity": "",
+          "unit": "",
+          "note": "適量"
+        },
+        {
+          "item": "わさび",
+          "quantity": "",
+          "unit": "",
+          "note": "お好みで"
+        }
+      ],
+      "steps": [
+        "アボカドをさいの目切りにする。クリームチーズも同様に切る。",
+        "皿に盛り、かつおぶし・しょうゆをかける。わさびをつけても◎"
+      ],
+      "memo": "",
+      "created_at": "2026-07-20T18:30:25+09:00",
+      "updated_at": "2026-07-20T18:30:25+09:00",
+      "cooking_time": "5分"
     }
   ]
 }
