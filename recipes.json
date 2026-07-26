@@ -2074,6 +2074,64 @@
       "memo": "居酒屋で出てくるねぎじゃこサラダを再現した一品。火を使わず混ぜるだけ。",
       "created_at": "2026-07-26T17:44:39+09:00",
       "updated_at": "2026-07-26T17:44:39+09:00"
+    },
+    {
+      "id": "20260726-174426",
+      "title": "きゅうりとみょうがの薬膳ナムル",
+      "source_url": "https://www.buzzfeed.com/jp/kazuyawakana/namul-with-cucumber-and-japanese-ginger",
+      "source_name": "BuzzFeed Japan（Tasty Japan）",
+      "image": "images/20260726-174426.jpg",
+      "servings": "1人分",
+      "folders": [
+        "おつまみ"
+      ],
+      "ingredients": [
+        {
+          "item": "きゅうり",
+          "quantity": "1",
+          "unit": "本",
+          "note": ""
+        },
+        {
+          "item": "大葉",
+          "quantity": "3",
+          "unit": "枚",
+          "note": ""
+        },
+        {
+          "item": "みょうが",
+          "quantity": "2",
+          "unit": "個",
+          "note": ""
+        },
+        {
+          "item": "鶏ガラスープの素",
+          "quantity": "1",
+          "unit": "小さじ",
+          "note": "A"
+        },
+        {
+          "item": "ごま油",
+          "quantity": "1",
+          "unit": "大さじ",
+          "note": "A"
+        },
+        {
+          "item": "白ごま",
+          "quantity": "",
+          "unit": "",
+          "note": "A・適量"
+        }
+      ],
+      "steps": [
+        "きゅうりを細切りにする。",
+        "大葉、みょうがを細切りにする。",
+        "1と2をボウルに入れ、Aを加えてよく和えたら完成。"
+      ],
+      "memo": "切って和えるだけ。作り置き・箸休め・そうめんの薬味にも。",
+      "created_at": "2026-07-26T17:44:26+09:00",
+      "updated_at": "2026-07-26T17:44:26+09:00",
+      "cooking_time": "10分"
     }
   ]
 }
