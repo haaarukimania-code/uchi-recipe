@@ -4520,6 +4520,158 @@
       "created_at": "2026-08-30T04:08:46+09:00",
       "updated_at": "2026-08-30T04:08:46+09:00",
       "cooking_time": "30分"
+    },
+    {
+      "id": "20261004-184206",
+      "title": "ちくわのにんにくわさびマヨ和え",
+      "source_url": "https://www.orangepage.net/opeditor/theme/281316",
+      "source_name": "オレンジページnet",
+      "image": "images/20261004-184206.jpg",
+      "servings": "作りやすい量",
+      "folders": [
+        "おつまみ"
+      ],
+      "ingredients": [
+        {
+          "item": "ちくわ",
+          "quantity": "1",
+          "unit": "袋",
+          "note": "4〜5本"
+        },
+        {
+          "item": "わさび",
+          "quantity": "5",
+          "unit": "cm",
+          "note": "チューブ"
+        },
+        {
+          "item": "にんにく",
+          "quantity": "2",
+          "unit": "cm",
+          "note": "チューブ"
+        },
+        {
+          "item": "マヨネーズ",
+          "quantity": "1",
+          "unit": "大さじ",
+          "note": "程度"
+        }
+      ],
+      "steps": [
+        "ちくわはハサミで細かい輪切りにし、材料すべてをよく和える。"
+      ],
+      "memo": "約2分で作れる。食べる器で和えれば洗い物も少ない。ビール・焼酎に合う。\n出典：元居酒屋女将が教える爆速おつまみレシピ3選（ちはる/だけメシ）",
+      "created_at": "2026-10-04T18:42:06+09:00",
+      "updated_at": "2026-10-04T18:42:06+09:00",
+      "cooking_time": "2分"
+    },
+    {
+      "id": "20261004-184207",
+      "title": "ツナキムチのくるくる海苔巻き",
+      "source_url": "https://www.orangepage.net/opeditor/theme/281316",
+      "source_name": "オレンジページnet",
+      "image": "images/20261004-184207.jpg",
+      "servings": "作りやすい量",
+      "folders": [
+        "おつまみ"
+      ],
+      "ingredients": [
+        {
+          "item": "キムチ",
+          "quantity": "30",
+          "unit": "g",
+          "note": "大さじ1程度"
+        },
+        {
+          "item": "ツナ缶",
+          "quantity": "1",
+          "unit": "缶",
+          "note": "70g・油を切る"
+        },
+        {
+          "item": "白ごま",
+          "quantity": "1",
+          "unit": "大さじ",
+          "note": "いりごま・程度"
+        },
+        {
+          "item": "海苔",
+          "quantity": "1",
+          "unit": "枚",
+          "note": ""
+        }
+      ],
+      "steps": [
+        "海苔以外の材料をよく和える。",
+        "ラップを敷いて海苔を置き、1を広げてくるくる巻く。",
+        "1〜2分置いてなじませ、ハサミで食べやすい大きさに切る。"
+      ],
+      "memo": "手づかみで食べられる。ビール・焼酎・泡盛に合う。\nアレンジ：海苔にごはんを広げてのせて巻けば海苔巻きに。きゅうりや大葉を一緒に巻いてもいい。\n出典：元居酒屋女将が教える爆速おつまみレシピ3選（ちはる/だけメシ）",
+      "created_at": "2026-10-04T18:42:07+09:00",
+      "updated_at": "2026-10-04T18:42:07+09:00",
+      "cooking_time": "5分"
+    },
+    {
+      "id": "20261004-184208",
+      "title": "トマトのチーズマリネ",
+      "source_url": "https://www.orangepage.net/opeditor/theme/281316",
+      "source_name": "オレンジページnet",
+      "image": "images/20261004-184208.jpg",
+      "servings": "作りやすい量",
+      "folders": [
+        "おつまみ"
+      ],
+      "ingredients": [
+        {
+          "item": "トマト",
+          "quantity": "1",
+          "unit": "個",
+          "note": "200g"
+        },
+        {
+          "item": "粉チーズ",
+          "quantity": "1.5",
+          "unit": "大さじ",
+          "note": ""
+        },
+        {
+          "item": "オリーブオイル",
+          "quantity": "1/2",
+          "unit": "大さじ",
+          "note": ""
+        },
+        {
+          "item": "塩",
+          "quantity": "",
+          "unit": "",
+          "note": "ひとつまみ"
+        },
+        {
+          "item": "しょうゆ",
+          "quantity": "1",
+          "unit": "小さじ",
+          "note": ""
+        },
+        {
+          "item": "黒こしょう",
+          "quantity": "",
+          "unit": "",
+          "note": "お好みで（ブラックペッパー）"
+        },
+        {
+          "item": "にんにく",
+          "quantity": "3",
+          "unit": "cm",
+          "note": "チューブ"
+        }
+      ],
+      "steps": [
+        "トマトは薄めのくし切りにし、材料すべてをよく和える。"
+      ],
+      "memo": "ワインに合う。バゲットにのせてもおいしい。\n出典：元居酒屋女将が教える爆速おつまみレシピ3選（ちはる/だけメシ）",
+      "created_at": "2026-10-04T18:42:08+09:00",
+      "updated_at": "2026-10-04T18:42:08+09:00",
+      "cooking_time": "5分"
     }
   ]
 }
