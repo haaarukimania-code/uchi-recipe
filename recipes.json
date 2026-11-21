@@ -5026,6 +5026,69 @@
       "created_at": "2026-11-21T14:01:13+09:00",
       "updated_at": "2026-11-21T14:01:13+09:00",
       "cooking_time": "約10分"
+    },
+    {
+      "id": "20261121-141949",
+      "title": "鍋ブースターパック",
+      "source_url": "https://app.cookthrough.com/recipe_detail_pages/Lx2Urp03WPIN8X8g9OS4wA",
+      "source_name": "クックスルー",
+      "image": "",
+      "servings": "5食分",
+      "folders": [
+        "鍋"
+      ],
+      "ingredients": [
+        {
+          "item": "白菜",
+          "quantity": "1/2",
+          "unit": "個",
+          "note": ""
+        },
+        {
+          "item": "長ねぎ",
+          "quantity": "4",
+          "unit": "本",
+          "note": ""
+        },
+        {
+          "item": "にんじん",
+          "quantity": "2",
+          "unit": "本",
+          "note": ""
+        },
+        {
+          "item": "えのきたけ",
+          "quantity": "1",
+          "unit": "株",
+          "note": ""
+        },
+        {
+          "item": "しめじ",
+          "quantity": "1",
+          "unit": "パック",
+          "note": ""
+        },
+        {
+          "item": "にら",
+          "quantity": "1",
+          "unit": "束",
+          "note": ""
+        },
+        {
+          "item": "肉類",
+          "quantity": "750",
+          "unit": "g",
+          "note": ""
+        }
+      ],
+      "steps": [
+        "全部切ってジップロックに入れる。",
+        "肉は最後に入れる。",
+        "鶏肉は5分、豚肉は3分、先に火を通す。"
+      ],
+      "memo": "野菜は全部切ってジップロックに入れておく（5食分の鍋用パック）。\n肉は最後に入れる。火の通り目安は鶏肉5分・豚肉3分。",
+      "created_at": "2026-11-21T14:19:49+09:00",
+      "updated_at": "2026-11-21T14:19:49+09:00"
     }
   ]
 }
